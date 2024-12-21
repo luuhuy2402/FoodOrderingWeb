@@ -1,4 +1,5 @@
-import Footer from "./Footer";
+import PropTypes from "prop-types";
+// import Footer from "./Footer";
 import Header from "./Header";
 
 export default function Layout({ children }) {
@@ -6,7 +7,11 @@ export default function Layout({ children }) {
         <div>
             <Header />
             <div>{children}</div>
-            <Footer />
+            {/* <Footer /> */}
         </div>
     );
 }
+
+Layout.propTypes = {
+    children: PropTypes.node, // Xác định kiểu của children
+};
