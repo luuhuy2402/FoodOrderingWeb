@@ -20,11 +20,11 @@ export default function Section6() {
                                     />
                                 </div>
                                 <p>
-                                    " Etiam sapien sem at sagittis congue augue
-                                    massa varius sodales sapien undo tempus
-                                    dolor egestas magna suscipit magna tempus
-                                    aliquet porta sodales augue suscipit luctus
-                                    neque "
+                                    &quot;Etiam sapien sem at sagittis congue
+                                    augue massa varius sodales sapien undo
+                                    tempus dolor egestas magna suscipit magna
+                                    tempus aliquet porta sodales augue suscipit
+                                    luctus neque &ldquo;
                                 </p>
                                 <div className="item_rating mb-2">
                                     <i className="bi bi-star-fill"></i>
@@ -46,11 +46,11 @@ export default function Section6() {
                                     />
                                 </div>
                                 <p>
-                                    " Etiam sapien sem at sagittis congue augue
-                                    massa varius sodales sapien undo tempus
-                                    dolor egestas magna suscipit magna tempus
-                                    aliquet porta sodales augue suscipit luctus
-                                    neque "
+                                    &quot; Etiam sapien sem at sagittis congue
+                                    augue massa varius sodales sapien undo
+                                    tempus dolor egestas magna suscipit magna
+                                    tempus aliquet porta sodales augue suscipit
+                                    luctus neque &ldquo;
                                 </p>
                                 <div className="item_rating mb-2">
                                     <i className="bi bi-star-fill"></i>
@@ -72,11 +72,11 @@ export default function Section6() {
                                     />
                                 </div>
                                 <p>
-                                    " Etiam sapien sem at sagittis congue augue
-                                    massa varius sodales sapien undo tempus
-                                    dolor egestas magna suscipit magna tempus
-                                    aliquet porta sodales augue suscipit luctus
-                                    neque "
+                                    &quot; Etiam sapien sem at sagittis congue
+                                    augue massa varius sodales sapien undo
+                                    tempus dolor egestas magna suscipit magna
+                                    tempus aliquet porta sodales augue suscipit
+                                    luctus neque &ldquo;
                                 </p>
                                 <div className="item_rating mb-2">
                                     <i className="bi bi-star-fill"></i>
@@ -98,11 +98,11 @@ export default function Section6() {
                                     />
                                 </div>
                                 <p>
-                                    " Etiam sapien sem at sagittis congue augue
-                                    massa varius sodales sapien undo tempus
-                                    dolor egestas magna suscipit magna tempus
-                                    aliquet porta sodales augue suscipit luctus
-                                    neque "
+                                    &quot; Etiam sapien sem at sagittis congue
+                                    augue massa varius sodales sapien undo
+                                    tempus dolor egestas magna suscipit magna
+                                    tempus aliquet porta sodales augue suscipit
+                                    luctus neque &ldquo;
                                 </p>
                                 <div className="item_rating mb-2">
                                     <i className="bi bi-star-fill"></i>
